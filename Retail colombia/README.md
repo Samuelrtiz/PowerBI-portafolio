@@ -1,4 +1,4 @@
-Retail Colombia – Dashboard de Análisis Comercial 2026
+# Retail Colombia – Dashboard de Análisis Comercial 2026
 
 📌 Descripción del Proyecto
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI enfocado en el análisis del desempeño comercial de una empresa del sector retail en Colombia durante el año 2026.
