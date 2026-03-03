@@ -6,6 +6,7 @@ Este proyecto presenta un dashboard interactivo desarrollado en Power BI enfocad
 El tablero permite evaluar ventas, cumplimiento de metas, rentabilidad por categoría y control de inventario por sucursal, facilitando la toma de decisiones estratégicas basadas en datos.
 
 ==========================================================
+
 🎯 **Objetivos del Análisis**
 
 Analizar el comportamiento de ventas mensuales.
@@ -19,6 +20,7 @@ Identificar sucursales con mayor desempeño.
 Detectar necesidades de reposición de inventario.
 
 =======================================================
+
 🛠 **Herramientas Utilizadas**
 
 Power BI Desktop
@@ -30,6 +32,7 @@ DAX (creación de métricas y KPIs personalizados)
 Microsoft Excel (fuente de datos)
 
 =========================================================
+
 📊 **KPIs Principales**
 
 Venta Total
@@ -47,6 +50,7 @@ Nivel de Stock Actual
 Alerta de Reposición (Restock)
 
 ==========================================================
+
 📍 **Análisis Incluido**
 
 🗺 **Análisis Geográfico**
@@ -88,6 +92,7 @@ Computadoras
 Tablets
 
 ==========================================================
+
 🧠 **Principales Insights**
 
 La venta total muestra variaciones mensuales relevantes.
@@ -99,6 +104,7 @@ Se identificaron productos con necesidad de reposición inmediata.
 Existen diferencias de desempeño entre sucursales.
 
 ==========================================================
+
 📂 **Archivos Incluidos**
 
 RetailColombia.pbix
@@ -120,6 +126,7 @@ README.txt
 Documento descriptivo del proyecto.
 
 ==========================================================
+
 ▶ **Cómo visualizar el proyecto**
 
 Descargar el archivo RetailColombia.pbix.
