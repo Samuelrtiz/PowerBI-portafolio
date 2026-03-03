@@ -4,7 +4,7 @@
 🎓 Estudiante de Ingeniería en Sistemas
 📊 Especialización: Análisis de Datos y Business Intelligence
 
-============================================================
+==========================================================
 📌 **Sobre Este Repositorio**
 
 Este repositorio contiene una colección de dashboards desarrollados en Power BI enfocados en análisis comercial y análisis operativo/logístico.
@@ -21,7 +21,7 @@ Documentación técnica (README)
 
 El objetivo es demostrar habilidades en modelado de datos, transformación, creación de métricas DAX y visualización estratégica para la toma de decisiones.
 
-============================================================
+==========================================================
 🛠 **Herramientas y Tecnologías**
 
 Power BI Desktop
@@ -36,7 +36,7 @@ Modelado de datos
 
 Diseño de dashboards interactivos
 
-============================================================
+==========================================================
 📂 **Proyectos Incluidos**
 
 📊 **Retail Colombia**
@@ -71,7 +71,7 @@ Rendimiento por conductor
 
 Control de mantenimiento por camión
 
-============================================================
+==========================================================
 🎯 **Objetivo Profesional**
 
 Este portafolio refleja mi capacidad para:
@@ -89,7 +89,7 @@ Data Analyst Junior
 Business Intelligence Analyst
 Analista de Datos
 
-============================================================
+==========================================================
 ▶ **Cómo Explorar los Proyectos**
 
 Ingresar a la carpeta del proyecto.
