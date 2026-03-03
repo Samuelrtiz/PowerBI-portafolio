@@ -1,0 +1,115 @@
+#README
+
+Retail Colombia – Dashboard de Análisis Comercial
+
+Este proyecto presenta un dashboard interactivo desarrollado en Power BI para el análisis del desempeño comercial de una empresa del sector retail en Colombia. 
+El tablero permite evaluar ventas, cumplimiento de metas, rentabilidad por categoría y control de inventario por sucursal.
+
+El objetivo principal es facilitar la toma de decisiones estratégicas mediante el análisis visual y dinámico de los datos.
+
+============================================================
+Objetivos del Análisis
+
+Evaluar el comportamiento de ventas mensuales.
+
+Medir el cumplimiento de metas comerciales.
+
+Analizar el margen por categoría de producto.
+
+Identificar sucursales con mayor desempeño.
+
+Detectar necesidades de reposición (restock).
+
+============================================================
+Herramientas Utilizadas
+
+Power BI Desktop
+
+Power Query (transformación y modelado de datos)
+
+DAX (cálculo de métricas y KPIs)
+
+Microsoft Excel (fuente de datos)
+
+============================================================
+KPIs Principales
+
+Venta Total: $1.6 mil millones
+
+Cumplimiento de Meta frente a objetivo de $1.9 mil millones
+
+Recuento de Ventas Mensuales
+
+Margen por Categoría
+
+Ventas Totales por Producto
+
+Control de Stock y alerta de reposición
+
+============================================================
+Análisis Incluido
+
+* Análisis Geográfico:
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Medellín
+
+* Análisis por Producto:
+
+iPhone 14
+
+Tablet Lenovo
+
+Laptop HP
+
+Samsung TV 55
+
+Audífonos Sony
+
+* Análisis de Rentabilidad:
+
+Celulares
+
+Televisores
+
+Computadoras
+
+Tablets
+
+============================================================
+Principales Insights
+
+La venta total alcanzó $1.6 mil millones, situándose por debajo de la meta establecida.
+
+Algunas categorías concentran mayor margen de rentabilidad.
+
+Se detectó necesidad de reposición en la categoría de televisores.
+
+El desempeño varía según la sucursal y el vendedor.
+
+============================================================
+Archivos Incluidos
+
+retail-colombia.pbix (archivo principal del dashboard)
+
+Archivos de datos en Excel
+
+Imagen del tablero (RetailColombia.jpg)
+
+README.txt (documentación del proyecto)
+
+============================================================
+Cómo visualizar el proyecto
+
+Descargar el archivo .pbix.
+
+Abrirlo en Power BI Desktop.
+
+Explorar filtros por categoría, sucursal y periodo.
+
+Analizar segmentaciones e indicadores dinámicos
