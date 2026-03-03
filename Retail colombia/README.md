@@ -18,7 +18,7 @@ Identificar sucursales con mayor desempeño.
 
 Detectar necesidades de reposición de inventario.
 
-========================================================
+=======================================================
 🛠 **Herramientas Utilizadas**
 
 Power BI Desktop
@@ -87,7 +87,7 @@ Computadoras
 
 Tablets
 
-============================================================
+==========================================================
 🧠 **Principales Insights**
 
 La venta total muestra variaciones mensuales relevantes.
