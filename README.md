@@ -1,13 +1,11 @@
 # PowerBI-portafolio
 
-PORTAFOLIO DE PROYECTOS – DATA ANALYTICS & BUSINESS INTELLIGENCE
-
 👨‍💻 Autor: [ Samuel Ortiz]
 🎓 Estudiante de Ingeniería en Sistemas
 📊 Especialización: Análisis de Datos y Business Intelligence
 
 ============================================================
-📌 Sobre Este Repositorio
+📌 **Sobre Este Repositorio**
 
 Este repositorio contiene una colección de dashboards desarrollados en Power BI enfocados en análisis comercial y análisis operativo/logístico.
 
@@ -24,7 +22,7 @@ Documentación técnica (README)
 El objetivo es demostrar habilidades en modelado de datos, transformación, creación de métricas DAX y visualización estratégica para la toma de decisiones.
 
 ============================================================
-🛠 Herramientas y Tecnologías
+🛠 **Herramientas y Tecnologías**
 
 Power BI Desktop
 
@@ -39,9 +37,9 @@ Modelado de datos
 Diseño de dashboards interactivos
 
 ============================================================
-📂 Proyectos Incluidos
+📂 **Proyectos Incluidos**
 
-📊 Retail Colombia
+📊 **Retail Colombia**
 Carpeta: Retail_colombia
 
 Dashboard enfocado en análisis comercial del sector retail en Colombia.
@@ -57,7 +55,7 @@ Rentabilidad por categoría
 
 Gestión de inventario
 
-🚛 U.S. Internal Travel Report 2026
+🚛 **U.S. Internal Travel Report 2026**
 Carpeta: Viajes 2026
 
 Dashboard enfocado en análisis operativo y logístico del transporte interno en Estados Unidos.
@@ -74,7 +72,7 @@ Rendimiento por conductor
 Control de mantenimiento por camión
 
 ============================================================
-🎯 Objetivo Profesional
+🎯 **Objetivo Profesional**
 
 Este portafolio refleja mi capacidad para:
 
@@ -92,7 +90,7 @@ Business Intelligence Analyst
 Analista de Datos
 
 ============================================================
-▶ Cómo Explorar los Proyectos
+▶ **Cómo Explorar los Proyectos**
 
 Ingresar a la carpeta del proyecto.
 
