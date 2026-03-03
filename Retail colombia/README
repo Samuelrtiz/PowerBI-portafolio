@@ -1,14 +1,11 @@
-#README
-
-Retail Colombia – Dashboard de Análisis Comercial
+🛍️ Retail Colombia – Dashboard de Análisis Comercial
 
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI para el análisis del desempeño comercial de una empresa del sector retail en Colombia. 
 El tablero permite evaluar ventas, cumplimiento de metas, rentabilidad por categoría y control de inventario por sucursal.
 
 El objetivo principal es facilitar la toma de decisiones estratégicas mediante el análisis visual y dinámico de los datos.
 
-============================================================
-Objetivos del Análisis
+🎯 Objetivos del Análisis
 
 Evaluar el comportamiento de ventas mensuales.
 
@@ -20,8 +17,7 @@ Identificar sucursales con mayor desempeño.
 
 Detectar necesidades de reposición (restock).
 
-============================================================
-Herramientas Utilizadas
+🛠 Herramientas Utilizadas
 
 Power BI Desktop
 
@@ -31,12 +27,11 @@ DAX (cálculo de métricas y KPIs)
 
 Microsoft Excel (fuente de datos)
 
-============================================================
-KPIs Principales
+📊 KPIs Principales
 
 Venta Total: $1.6 mil millones
 
-Cumplimiento de Meta frente a objetivo de $1.9 mil millones
+Cumplimiento de Meta: Comparación contra meta de $1.9 mil millones
 
 Recuento de Ventas Mensuales
 
@@ -46,10 +41,11 @@ Ventas Totales por Producto
 
 Control de Stock y alerta de reposición
 
-============================================================
-Análisis Incluido
+📍 Análisis Incluido
 
-* Análisis Geográfico:
+🔹 Análisis Geográfico
+
+Visualización de ventas por ciudad:
 
 Barranquilla
 
@@ -59,7 +55,9 @@ Cali
 
 Medellín
 
-* Análisis por Producto:
+🔹 Análisis por Producto
+
+Comparación de desempeño entre:
 
 iPhone 14
 
@@ -71,7 +69,9 @@ Samsung TV 55
 
 Audífonos Sony
 
-* Análisis de Rentabilidad:
+🔹 Rentabilidad por Categoría
+
+Evaluación del margen en:
 
 Celulares
 
@@ -81,8 +81,7 @@ Computadoras
 
 Tablets
 
-============================================================
-Principales Insights
+🧠 Principales Insights
 
 La venta total alcanzó $1.6 mil millones, situándose por debajo de la meta establecida.
 
@@ -92,19 +91,16 @@ Se detectó necesidad de reposición en la categoría de televisores.
 
 El desempeño varía según la sucursal y el vendedor.
 
-============================================================
-Archivos Incluidos
+📂 Archivos Incluidos
 
-retail-colombia.pbix (archivo principal del dashboard)
+retail-colombia.pbix → Archivo principal del dashboard.
 
-Archivos de datos en Excel
+Archivos de datos utilizados (Excel).
 
-Imagen del tablero (RetailColombia.jpg)
+RetailColombia.jpg → Imagen del tablero.
 
-README.txt (documentación del proyecto)
 
-============================================================
-Cómo visualizar el proyecto
+▶ Cómo visualizar el proyecto
 
 Descargar el archivo .pbix.
 
@@ -112,4 +108,4 @@ Abrirlo en Power BI Desktop.
 
 Explorar filtros por categoría, sucursal y periodo.
 
-Analizar segmentaciones e indicadores dinámicos
+Analizar segmentaciones e indicadores dinámicos.
