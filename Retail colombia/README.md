@@ -1,12 +1,12 @@
 # Retail Colombia – Dashboard de Análisis Comercial 2026
 
-📌 Descripción del Proyecto
+📌 **Descripción del Proyecto**
 Este proyecto presenta un dashboard interactivo desarrollado en Power BI enfocado en el análisis del desempeño comercial de una empresa del sector retail en Colombia durante el año 2026.
 
 El tablero permite evaluar ventas, cumplimiento de metas, rentabilidad por categoría y control de inventario por sucursal, facilitando la toma de decisiones estratégicas basadas en datos.
 
-============================================================
-🎯 Objetivos del Análisis
+==========================================================
+🎯 **Objetivos del Análisis**
 
 Analizar el comportamiento de ventas mensuales.
 
@@ -18,8 +18,8 @@ Identificar sucursales con mayor desempeño.
 
 Detectar necesidades de reposición de inventario.
 
-============================================================
-🛠 Herramientas Utilizadas
+========================================================
+🛠 **Herramientas Utilizadas**
 
 Power BI Desktop
 
@@ -29,8 +29,8 @@ DAX (creación de métricas y KPIs personalizados)
 
 Microsoft Excel (fuente de datos)
 
-============================================================
-📊 KPIs Principales
+=========================================================
+📊 **KPIs Principales**
 
 Venta Total
 
@@ -46,10 +46,10 @@ Nivel de Stock Actual
 
 Alerta de Reposición (Restock)
 
-============================================================
-📍 Análisis Incluido
+==========================================================
+📍 **Análisis Incluido**
 
-🗺 Análisis Geográfico
+🗺 **Análisis Geográfico**
 Comparación del desempeño comercial por sucursal:
 
 Barranquilla
@@ -60,7 +60,7 @@ Cali
 
 Medellín
 
-📦 Análisis por Producto
+📦 **Análisis por Producto**
 Evaluación del desempeño de productos tecnológicos como:
 
 iPhone 14
@@ -73,10 +73,10 @@ Samsung TV 55
 
 Audífonos Sony
 
-📈 Cumplimiento de Metas
+📈 **Cumplimiento de Metas**
 Comparación entre ventas reales y objetivos establecidos para 2026.
 
-📊 Rentabilidad por Categoría
+📊 **Rentabilidad por Categoría**
 Análisis del margen en:
 
 Celulares
@@ -88,7 +88,7 @@ Computadoras
 Tablets
 
 ============================================================
-🧠 Principales Insights
+🧠 **Principales Insights**
 
 La venta total muestra variaciones mensuales relevantes.
 
@@ -99,7 +99,7 @@ Se identificaron productos con necesidad de reposición inmediata.
 Existen diferencias de desempeño entre sucursales.
 
 ============================================================
-📂 Archivos Incluidos
+📂 **Archivos Incluidos**
 
 RetailColombia.pbix
 Archivo principal del dashboard desarrollado en Power BI.
@@ -120,7 +120,7 @@ README.txt
 Documento descriptivo del proyecto.
 
 ============================================================
-▶ Cómo visualizar el proyecto
+▶ **Cómo visualizar el proyecto**
 
 Descargar el archivo RetailColombia.pbix.
 
