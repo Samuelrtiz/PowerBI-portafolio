@@ -98,7 +98,7 @@ Se identificaron productos con necesidad de reposición inmediata.
 
 Existen diferencias de desempeño entre sucursales.
 
-============================================================
+==========================================================
 📂 **Archivos Incluidos**
 
 RetailColombia.pbix
@@ -119,7 +119,7 @@ Imagen del tablero utilizada como vista previa del proyecto.
 README.txt
 Documento descriptivo del proyecto.
 
-============================================================
+==========================================================
 ▶ **Cómo visualizar el proyecto**
 
 Descargar el archivo RetailColombia.pbix.
