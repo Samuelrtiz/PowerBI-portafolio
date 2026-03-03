@@ -6,7 +6,7 @@ El tablero permite evaluar costos operativos, gasto en combustible, rendimiento 
 
 El objetivo principal es analizar la eficiencia operativa y detectar oportunidades de reducción de costos.
 
-=========================================================
+========================================================= 
 🎯 **Objetivos del Análisis**
 
 Analizar el costo operativo mensual.
@@ -19,7 +19,7 @@ Comparar el rendimiento por conductor.
 
 Analizar el desempeño y costo de mantenimiento por camión.
 
-=========================================================
+========================================================= 
 🛠 **Herramientas Utilizadas**
 
 Power BI Desktop
@@ -30,7 +30,7 @@ DAX (creación de métricas y cálculos personalizados)
 
 Microsoft Excel (fuente de datos)
 
-=========================================================
+========================================================= 
 📊 **KPIs Principales**
 
 Costo Operativo Mensual
@@ -45,7 +45,7 @@ Rendimiento por Conductor
 
 Rendimiento por Camión
 
-=========================================================
+========================================================= 
 📍 **Análisis Incluido**
 
 🗺 Análisis Geográfico
@@ -63,7 +63,7 @@ Análisis porcentual del desempeño individual.
 🛣 Rutas Más Costosas
 Identificación de ciudades con mayor impacto en costos operativos (Miami, Los Angeles, New York City, entre otras).
 
-=========================================================
+========================================================= 
 🧠 **Principales Insights**
 
 Se observa una tendencia creciente en el gasto de combustible.
@@ -74,7 +74,7 @@ Existen diferencias notables en rendimiento entre conductores.
 
 Determinados camiones presentan mayores costos de mantenimiento.
 
-=========================================================
+========================================================= 
 📂 **Archivos Incluidos**
 
 Us Viajes 2026.pbix
@@ -101,7 +101,7 @@ Logo complementario utilizado para fines visuales.
 README.txt
 Documento descriptivo del proyecto.
 
-=========================================================
+========================================================= 
 ▶ **Cómo visualizar el proyecto**
 
 Descargar el archivo .pbix.
