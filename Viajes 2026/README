@@ -77,13 +77,29 @@ Determinados camiones presentan mayores costos de mantenimiento.
 ============================================================
 📂 Archivos Incluidos
 
-us-internal-travel-report-2026.pbix (archivo principal del dashboard)
+Us Viajes 2026.pbix
+Archivo principal del dashboard desarrollado en Power BI.
 
-Archivos de datos en Excel
+Viajes_2026_Logistica_USA.xlsx
+Base de datos principal de viajes y rutas utilizadas para el análisis.
 
-Imagen del tablero
+Conductores_Logistica_USA.xlsx
+Información detallada de conductores y métricas de rendimiento.
 
-README.txt (documentación del proyecto)
+Mantenimiento_Logistica_USA.xlsx
+Datos relacionados con costos de mantenimiento por camión.
+
+ViajesUSA.jpg
+Imagen del tablero utilizada como vista previa del proyecto.
+
+United_States_Department_of_Transportation_seal.svg.png
+Imagen institucional utilizada en el diseño del dashboard.
+
+us-department-of-transportation-logo-black-and-white.png
+Logo complementario utilizado para fines visuales.
+
+README.txt
+Documento descriptivo del proyecto.
 
 ============================================================
 ▶ Cómo visualizar el proyecto
