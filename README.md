@@ -40,42 +40,6 @@ Diseño de dashboards interactivos
 
 ==========================================================
 
-📂 **Proyectos Incluidos**
-
-📊 **Retail Colombia**
-Carpeta: Retail_colombia
-
-Dashboard enfocado en análisis comercial del sector retail en Colombia.
-Incluye evaluación de ventas, cumplimiento de metas, margen por categoría y control de inventario por sucursal.
-
-Principales enfoques:
-
-Análisis de ventas mensuales
-
-Cumplimiento de objetivos
-
-Rentabilidad por categoría
-
-Gestión de inventario
-
-🚛 **U.S. Internal Travel Report 2026**
-Carpeta: Viajes 2026
-
-Dashboard enfocado en análisis operativo y logístico del transporte interno en Estados Unidos.
-Incluye evaluación de costos operativos, mantenimiento, rendimiento de conductores y eficiencia de combustible.
-
-Principales enfoques:
-
-Costos operativos mensuales
-
-Rutas más costosas
-
-Rendimiento por conductor
-
-Control de mantenimiento por camión
-
-==========================================================
-
 🎯 **Objetivo Profesional**
 
 Este portafolio refleja mi capacidad para:
